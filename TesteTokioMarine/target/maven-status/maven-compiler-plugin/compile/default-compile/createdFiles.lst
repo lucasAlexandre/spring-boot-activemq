@@ -1,0 +1,7 @@
+br\com\test\TesteTokioMarine\controller\SeguroController.class
+br\com\test\TesteTokioMarine\swaggerConfig\SwaggerConfig.class
+br\com\test\TesteTokioMarine\Application.class
+br\com\test\TesteTokioMarine\bean\Pessoa.class
+br\com\test\TesteTokioMarine\bean\Seguro.class
+br\com\test\TesteTokioMarine\abstractEntity\AbstractEntity.class
+br\com\test\TesteTokioMarine\bean\Carro.class
